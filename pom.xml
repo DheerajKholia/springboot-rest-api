@@ -24,10 +24,12 @@
 			<artifactId>spring-boot-starter-hateoas</artifactId>
 			<!--<version>2.1.4.RELEASE</version>-->
 		</dependency>
+		<!-- Disabling security for Dev
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
+		-->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-actuator</artifactId>
